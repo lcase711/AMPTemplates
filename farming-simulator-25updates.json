@@ -1,0 +1,12 @@
+[
+  {
+    "UpdateStageName": "SteamCMD Update",
+    "UpdateSourcePlatform": "windows",
+    "UpdateSource": "SteamCMD",
+    "UpdateSourceArgs": "2300320",
+    "UnzipUpdateSource": false,
+    "OverwriteExistingFiles": true,
+    "DeleteAfterExtract": false,
+    "OneShot": false
+  }
+]

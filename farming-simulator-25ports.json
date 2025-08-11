@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": "8080",
+        "Name": "Webserver",
+        "Description": "Port used for WebUI",
+        "Ref": "Webserver"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "10823",
+        "Name": "Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "GamePort"
+    }
+]
